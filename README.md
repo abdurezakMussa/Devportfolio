@@ -26,4 +26,4 @@ If you want your resume to automatically download when the button is clicked ins
 <a href="path/to/resume.pdf" download="resume.pdf" class="btn-rounded-white">Download Resume</a>
 
 # License
-Completely free (MIT)
+Completely free (MIT) Copyright &copy; 2020 Abdurezak Abdelkader
